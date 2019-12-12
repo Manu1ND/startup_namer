@@ -103,7 +103,6 @@ class RandomWordsState extends State<RandomWords>{
   }
 // #docregion RWS-var
 }
-}
 
 class RandomWords extends StatefulWidget{
   @override
